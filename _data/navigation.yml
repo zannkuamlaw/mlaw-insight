@@ -7,7 +7,18 @@
 - title: About Us
   url: /about-us/
 - title: Articles
-  url: /articles/ 
+  url: /articles/
+  sub-links:
+  - title: All
+    url: /articles/
+  - title: Our People
+    url: /articles/our-people/
+  - title: Going Global
+    url: /articles/going-global/
+  - title: Legal Developments
+    url: /articles/legal-developments/
+  - title: Future of Law
+    url: /articles/future-of-law/
 - title: Contact Us
   url: /contact-us/
  
