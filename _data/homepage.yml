@@ -18,7 +18,7 @@ hero-banner: /images/bannerinsightminlaw.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-us/
     
 key-highlights:
   - title: Our People
