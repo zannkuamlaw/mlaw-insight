@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Youth Engagement
-permalink: /youth-engagement/
-breadcrumb: Youth Engagement
+title: Lawyers of Tomorrow
+permalink: /lawyers-of-tomorrow/
+breadcrumb: Lawyers of Tomorrow
 ---
