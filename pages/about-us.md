@@ -1,10 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: About Us
 permalink: /about-us/
 breadcrumb: About Us
-collection_name: about-us
-second_nav_title: About Us
 ---
 
 Uncover the Stories Inside MinLaw
